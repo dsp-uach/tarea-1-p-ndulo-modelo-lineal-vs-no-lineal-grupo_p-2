@@ -23,7 +23,7 @@ g = 9.81
 L = 1.0
 omega0 = 0.0
 
-theta0_deg_list = [15, 30, 45, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360]
+theta0_deg_list = [15, 30, 45, 60]
 
 t_span = (0, 60)
 t_eval = np.linspace(*t_span, 3000)
